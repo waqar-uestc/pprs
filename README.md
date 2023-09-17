@@ -1,3 +1,3 @@
-# Privacy-preserved and Responsible Recommenders: From conventional defense to federated learning & blockchain
+# Privacy-preserved and Responsible Recommenders: From conventional defense to Federated Learning and Blockchain
 
 We are working to organize this repo
