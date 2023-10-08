@@ -1,3 +1,21 @@
 # Privacy-preserved and Responsible Recommenders: From conventional defense to Federated Learning and Blockchain
 
-We are actively organizing this repository and will be releasing details soon. Stay tuned for updates!
+In our mission to advance the field of privacy-preserving and responsible recommender systems (PPRS), we understand the importance of practical tools and resources that aid researchers and practitioners in their work. As part of our commitment to the community, we've curated an extensive collection of toolkits, codebases, and recent repositories spanning key technologies such as Federated Learning, Blockchain, and Differential Privacy. This collection serves as a valuable resource for those eager to explore, experiment, and contribute to the development of robust PPRS solutions.
+
+## Federated Learning Toolkit: 
+Explore a range of open-source libraries and codebases designed to implement federated learning techniques. Whether you're interested in preserving user privacy, enhancing recommendation performance, or both, these resources provide a foundation to build upon.
+
+## Blockchain Codebase: 
+Delve into the world of blockchain and its applications in recommender systems. Our repository includes codebases and examples illustrating how blockchain technology can be harnessed to bolster security, accountability, and transparency in recommendation services.
+
+## Differential Privacy Resources: 
+
+For those keen on safeguarding user data and ensuring responsible recommendations, our collection of differential privacy resources offers valuable insights. Discover libraries, algorithms, and research papers that delve into the intricacies of differential privacy in the context of recommender systems.
+
+## Responsibility Aspects (Fairness, Privacy, Security): 
+
+Responsible recommender systems go beyond preserving user privacy. They also prioritize fairness and security. Our repository encompasses tools and resources to help you assess and enhance the fairness, privacy, and security of your recommender systems.
+
+Whether you're an academic researcher, a data scientist, or an industry professional, this toolkit repository is designed to empower your work in PPRS. Feel free to explore, contribute, and leverage these resources to drive innovation in privacy, responsibility, and trustworthiness within the realm of recommender systems.
+
+Feel free to customize and expand this introduction to provide specific details about the contents of each section in your repository and any additional information you'd like to include. We are actively organizing this repository and will be releasing details soon. Stay tuned for updates!
