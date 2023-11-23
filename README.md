@@ -10,7 +10,7 @@ Explore a range of open-source libraries and codebases designed to implement fed
 #### (A table with FL collection will appear here)
 | Tile                                   | Affiliations                                                                            | Time  | Material                                                                                                                 |
 |----------------------------------------|-----------------------------------------------------------------------------------------|-------|--------------------------------------------------------------------------------------------------------------------------|
-| FATE - Federated AI Technology Enabler | AI Group from WeBank FedAI(https://www.fedai.org)                                       | 2023  | [Paper](https://www.jmlr.org/papers/volume22/20-815/20-815.pdf) , [Code](https://github.com/FederatedAI/FATE)            |
+| FATE - Federated AI Technology Enabler | AI Group from WeBank [FedAI](https://www.fedai.org)                                       | 2023  | [Paper](https://www.jmlr.org/papers/volume22/20-815/20-815.pdf) , [Code](https://github.com/FederatedAI/FATE)            |
 | OpenFL                                 | Intel and The University of Pennsylvania, [FeTS](https://www.med.upenn.edu/cbica/fets/) | 2022  | [Paper](http://iopscience.iop.org/article/10.1088/1361-6560/ac97d9), [Code](https://github.com/securefederatedai/openfl) |
 
 
