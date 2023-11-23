@@ -18,8 +18,8 @@ We explored a range of open-source libraries and codebases designed to implement
 | Google research on Federated Learning |	Open source |	2023 |	[Link](https://github.com/google-research/federated) |
 | A general collection of FL resources-1 |	Poga Po - Open source | 	2023 |	[Link](https://github.com/poga/awesome-federated-learning) |
 | A general collection of FL resources-2 |	Anbu Huang - Innovation Cat |	2023 |	[Link](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)| 
-| An organized collection FL codebases and papers for ** Federated RS ** |	- |	2023 |	[Link](https://github.com/XuanangD/FederatedRS) |
-| An organized collection FL codebases and papers for Federated RS |	Austin Liu, [YANG](https://github.com/AustinNeverPee) | 2023 |	[Link](https://github.com/AustinNeverPee/FedRecPapers)|
+| An organized collection FL codebases and papers for **Federated RS** |	- |	2023 |	[Link](https://github.com/XuanangD/FederatedRS) |
+| An organized collection FL codebases and papers for __Federated RS__ |	Austin Liu, [YANG](https://github.com/AustinNeverPee) | 2023 |	[Link](https://github.com/AustinNeverPee/FedRecPapers)|
 | Vertical Federated Graph Neural Network for Recommender System|	National University of Singapore |	ICML 2023 |	[Paper](https://arxiv.org/pdf/2303.05786.pdf), [Code](https://github.com/maiph123/VerticalGNN) |
 | Privacy Matters: Vertical Federated Linear Contextual Bandits for Privacy Protected Recommendation |	University of Cambridge |	KDD 2023 |	[Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599475), [Code](https://github.com/umbc-sanjaylab/FedPseudo_KDD23) |
 | UA-FedRec: Untargeted Attack on Federated News Recommendation| 	University of Science and Technology of China |	KDD 2023 |	[Paper](https://dl.acm.org/doi/10.1145/3580305.3599923), [Code](https://github.com/yjw1029/UA-FedRec) |
