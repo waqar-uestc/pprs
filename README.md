@@ -14,6 +14,13 @@ Explore a range of open-source libraries and codebases designed to implement fed
 | OpenFL                                 | Intel and The University of Pennsylvania, [FeTS](https://www.med.upenn.edu/cbica/fets/) | 2022  | [Paper](http://iopscience.iop.org/article/10.1088/1361-6560/ac97d9), [Code](https://github.com/securefederatedai/openfl) |
 | TFF - TensorFlow Federated |	Google [TensorFlow](https://www.tensorflow.org/federated)	| 2023 |	[Link](https://www.tensorflow.org/federated) |
 | FedML - Federated Machine Learning |	[FEDML](https://fedml.ai/)	| 2023 |	[Paper](https://arxiv.org/pdf/2007.13518.pdf), [Code](https://github.com/FedML-AI/FedML) |
+| Flower - A Friendly Federated Learning Framework |	Adap Hamburg - Germany, University of Cambridge - UK, Nokia Bell Labs - UK 	| 2023 |	[Paper](https://arxiv.org/pdf/2007.14390.pdf), [Code](https://github.com/adap/flower) |
+| Google research on Federated Learning |	Open source |	2023 |	[Link](https://github.com/google-research/federated) |
+| A general collection of FL resources-1 |	Poga Po - Open source | 	2023 |	[Link](https://github.com/poga/awesome-federated-learning) |
+| A general collection of FL resources-2 |	Anbu Huang - Innovation Cat |	2023 |	[Link](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)| 
+| An organized collection FL codebases and papers for Federated RS |	- |	2023 |	[Link](https://github.com/XuanangD/FederatedRS) |
+| An organized collection FL codebases and papers for Federated RS |	Austin Liu, [YANG](https://github.com/AustinNeverPee) | 2023 |	[Link](https://github.com/AustinNeverPee/FedRecPapers)|
+
 
 ## Blockchain Codebase: 
 Delve into the world of blockchain and its applications in recommender systems. Our repository includes codebases and examples illustrating how blockchain technology can be harnessed to bolster security, accountability, and transparency in recommendation services.
