@@ -12,7 +12,8 @@ Explore a range of open-source libraries and codebases designed to implement fed
 |----------------------------------------|-----------------------------------------------------------------------------------------|-------|--------------------------------------------------------------------------------------------------------------------------|
 | FATE - Federated AI Technology Enabler | AI Group from WeBank, [FedAI](https://www.fedai.org)                                       | 2023  | [Paper](https://www.jmlr.org/papers/volume22/20-815/20-815.pdf) , [Code](https://github.com/FederatedAI/FATE)            |
 | OpenFL                                 | Intel and The University of Pennsylvania, [FeTS](https://www.med.upenn.edu/cbica/fets/) | 2022  | [Paper](http://iopscience.iop.org/article/10.1088/1361-6560/ac97d9), [Code](https://github.com/securefederatedai/openfl) |
-
+| TFF - TensorFlow Federated |	Google [TensorFlow](https://www.tensorflow.org/federated)	| 2023 |	[Link](https://www.tensorflow.org/federated) |
+| FedML - Federated Machine Learning |	[FEDML](https://fedml.ai/)	| 2023 |	[Paper](https://arxiv.org/pdf/2007.13518.pdf), [Code](https://github.com/FedML-AI/FedML) |
 
 ## Blockchain Codebase: 
 Delve into the world of blockchain and its applications in recommender systems. Our repository includes codebases and examples illustrating how blockchain technology can be harnessed to bolster security, accountability, and transparency in recommendation services.
