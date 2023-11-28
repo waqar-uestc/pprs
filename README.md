@@ -1,7 +1,7 @@
 
 PPRS Repo
 
-# Privacy-preserved and Responsible Recommenders: From conventional defense to Federated Learning and Blockchain
+# Privacy-Preserved and Responsible Recommenders: From Conventional Defense to Federated Learning and Blockchain
 
 In our mission to advance the field of privacy-preserving and responsible recommender systems (PPRS), we understand the importance of practical tools and resources that aid researchers and practitioners in their work. As part of our commitment to the community, we've curated an extensive collection of toolkits, codebases, and recent repositories spanning key technologies such as Federated Learning, Blockchain, and Differential Privacy. This collection serves as a valuable resource for those eager to explore, experiment, and contribute to the development of robust PPRS solutions.
 
