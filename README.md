@@ -31,11 +31,11 @@ We explored a range of open-source libraries and codebases designed to implement
 | Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense | University of Science and Technology of China, State Key Laboratory of Cognitive Intelligence Hefei China | AAAI 2023  | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25611), [Code](https://github.com/yflyl613/FedRec) |
 | Fine-Grained Preference-Aware Personalized Federated POI Recommendation with Data Sparsity               | Shandong University, Qingdao, China                                                                       | SIGIR 2023 | [Paper](https://dl.acm.org/doi/10.1145/3539618.3591688), [Code](https://github.com/Leavesy/PrefFedPOI)      |
 
-## Blockchain Codebase: 
+## Encryption Codebase: 
 Delve into the world of homomorphic encryption and its applications in recommender systems. Our repository includes codebases and examples illustrating how encryption technology can be harnessed to bolster security, accountability, and transparency in recommendation services.
 
-| Title                                                                                                                            | Affiliations                                                  | Venue      | Year | Material |
-|---|---|---|---|---|
+| Title                                                                                                                            | Affiliations                                                  | Venue   \   Year | Material |
+|---|---|---|---|
 | Fully Homomorphic Encryption (FHE)                                                                                 | Google-Open source                                             | 2023 | [Paper](https://eprint.iacr.org/2023/1364.pdf) |
 | Microsoft SEAL                                                                                                            | Microsoft                                                        | 2023 | [Code](https://github.com/Microsoft/SEAL) |
 | TenSEAL                                                                                                             | OpenMined                                                       | 2023 | [Code](https://github.com/openmined/TenSEAL) |
