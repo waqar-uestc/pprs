@@ -32,6 +32,28 @@ We explored a range of open-source libraries and codebases designed to implement
 | Fine-Grained Preference-Aware Personalized Federated POI Recommendation with Data Sparsity               | Shandong University, Qingdao, China                                                                       | SIGIR 2023 | [Paper](https://dl.acm.org/doi/10.1145/3539618.3591688), [Code](https://github.com/Leavesy/PrefFedPOI)      |
 
 ## Blockchain Codebase: 
+Delve into the world of homomorphic encryption and its applications in recommender systems. Our repository includes codebases and examples illustrating how encryption technology can be harnessed to bolster security, accountability, and transparency in recommendation services.
+
+| Title                                                                                                                            | Affiliations                                                  | Venue      | Year | Material |
+|---|---|---|---|---|
+| Fully Homomorphic Encryption (FHE)                                                                                 | Google-Open source                                             | 2023 | [Paper](https://eprint.iacr.org/2023/1364.pdf) |
+| Microsoft SEAL                                                                                                            | Microsoft                                                        | 2023 | [Code](https://github.com/Microsoft/SEAL) |
+| TenSEAL                                                                                                             | OpenMined                                                       | 2023 | [Code](https://github.com/openmined/TenSEAL) |
+| HElib                                                                                                                 | IBM Research and New York University                            | 2023 | [Code](https://github.com/ibm/HElib) |
+| MPYC-Multiparty Computation in Python                                                                                   | Python, Berry Schoenmakers, Sphinx                               | 2023 | [Code](https://github.com/mpyc/mpyc) |
+| Cryptography                                                                                                             | Open Source                                                        | 2023 | [Code](https://github.com/google/cryptography) |
+| OpenFHE - Open-Source Fully Homomorphic Encryption                                                               | Intel Corporation, Duality Technologies                           | 2023 | [Paper](https://eprint.iacr.org/2023/223) |
+| Federated Collaborative Filtering Recommendation Based o Liaoning University of Technology                                | Liaoning University of Technology                               | 2023 | [Paper](https://ieeexplore.ieee.org/document/9637284) |
+| Privacy-Preserving Multi-View Matrix Factorization for Reco National University of Singapore                               | National University of Singapore                                  | 2023 | [Paper](https://ieeexplore.ieee.org/document/9637271) |
+| PALISADE                                                                                                                 | Duality Technologies                                              | 2022 | [Code](https://github.com/palisade/palisade) |
+| Microsoft SDL Cryptographic Recommendations                                                     | Microsoft                                                        | 2022 | [Code](https://github.com/microsoft/sdl/blob/master/SDL_cryptographic_recommendations.md) |
+| DL-crypto-api-auto-recommendation                                                                                 | Open Source                                                        | 2022 | [Code](https://github.com/google/dl-crypto-api-auto-recommendation) |
+| HE Transformer for nGraph                                                                                           | Intel Al Research                                                 | 2022 | [Paper](https://arxiv.org/pdf/2208.02168.pdf) |
+| CryptoRec: Novel Collaborative Filtering Recommender Mac International Electronics & Engineeri                       | International Electronics & Engineering                          | 2022 | [Paper](https://www.ieei.org/ieeeXplore/stamp/9850567.pdf) |
+| Cryptocurrency Recommender System                                                                              | Open Source                                                        | 2021 | [Code](https://github.com/Cryptocurrency-Recommender-System/Cryptocurrency-Recommender-System) |
+| Cold-start Recommendation Method Based on Homomorphi Xidian University                                         | Xidian University                                               | 2021 | [Paper](https://ieeexplore.ieee.org/document/9637276) |
+
+## Blockchain Codebase: 
 Delve into the world of blockchain and its applications in recommender systems. Our repository includes codebases and examples illustrating how blockchain technology can be harnessed to bolster security, accountability, and transparency in recommendation services.
 
 #### (A table with blockchain collection will appear here)
