@@ -1,4 +1,4 @@
-
+![image](https://github.com/waqar-uestc/pprs/assets/141116090/36179db4-e116-45c5-b091-233398dd4108)
 PPRS Repo
 
 # Privacy-Preserved and Responsible Recommenders: From Conventional Defense to Federated Learning and Blockchain
@@ -43,14 +43,13 @@ Delve into the world of homomorphic encryption and its applications in recommend
 | MPYC-Multiparty Computation in Python                                                                                   | Python, Berry Schoenmakers, Sphinx                               | 2023 | [Paper](https://www.igi-global.com/gateway/chapter/188521), [Code](https://github.com/lschoe/mpyc) |
 | Cryptography                                                                                                             | Open Source                                                        | 2023 | [Paper](https://books.google.com/books/about/Understanding_Cryptography.html?id=f24wFELSzkoC), [Code](https://github.com/google/tink) |
 | OpenFHE - Open-Source Fully Homomorphic Encryption                                                               | Intel Corporation, Duality Technologies                           | 2023 | [Paper](https://eprint.iacr.org/2023/223), [Code](https://www.openfhe.org/) |
-| Privacy-Preserving Multi-View Matrix Factorization for Reco National University of Singapore                               | National University of Singapore                                  | 2023 | [Paper](https://ieeexplore.ieee.org/document/9637271) |
-| PALISADE                                                                                                                 | Duality Technologies                                              | 2022 | [Code](https://github.com/palisade/palisade) |
-| Microsoft SDL Cryptographic Recommendations                                                     | Microsoft                                                        | 2022 | [Code](https://github.com/microsoft/sdl/blob/master/SDL_cryptographic_recommendations.md) |
-| DL-crypto-api-auto-recommendation                                                                                 | Open Source                                                        | 2022 | [Code](https://github.com/google/dl-crypto-api-auto-recommendation) |
-| HE Transformer for nGraph                                                                                           | Intel Al Research                                                 | 2022 | [Paper](https://arxiv.org/pdf/2208.02168.pdf) |
-| CryptoRec: Novel Collaborative Filtering Recommender Mac International Electronics & Engineeri                       | International Electronics & Engineering                          | 2022 | [Paper](https://www.ieei.org/ieeeXplore/stamp/9850567.pdf) |
-| Cryptocurrency Recommender System                                                                              | Open Source                                                        | 2021 | [Code](https://github.com/Cryptocurrency-Recommender-System/Cryptocurrency-Recommender-System) |
-| Cold-start Recommendation Method Based on Homomorphi Xidian University                                         | Xidian University                                               | 2021 | [Paper](https://ieeexplore.ieee.org/document/9637276) |
+| PALISADE                                                                                                                 | Duality Technologies                                              | 2022 | [Code](https://github.com/FlorentCLMichel/palisade)|
+| Microsoft SDL Cryptographic Recommendations                                                     | Microsoft                                                        | 2022 | [Code](https://github.com/MicrosoftDocs/security/blob/main/security-docs/SDL/Cryptographic-Recommendations.md) |
+| DL-crypto-api-auto-recommendation                                                                                 | Open Source                                                        | 2022 |  [Code](https://github.com/Anya92929/DL-crypto-api-auto-recommendation)) |
+| HE Transformer for nGraph                                                                                           | Intel Al Research                                                 | 2022 | [Paper](https://arxiv.org/pdf/1908.04172.pdf), [Code](https://github.com/IntelAI/he-transformer) |
+| CryptoRec: Novel Collaborative Filtering Recommender Mac International Electronics & Engineeri                       | International Electronics & Engineering                          | 2022 | [Paper](https://www.computer.org/csdl/journal/tq/2022/04/09376980/1rUNoV3QKGI) |
+| Cryptocurrency Recommender System                                                                              | Open Source                                                        | 2021 | [Code](https://github.com/Cynwell/Cryptocurrency-Recommender-System) |
+| Cold-start Recommendation Method Based on Homomorphic Encryption                                        | Xidian University                                               | 2021 | [Paper](https://ieeexplore.ieee.org/abstract/document/9634944) |
 
 ## Blockchain Codebase: 
 Delve into the world of blockchain and its applications in recommender systems. Our repository includes codebases and examples illustrating how blockchain technology can be harnessed to bolster security, accountability, and transparency in recommendation services.
