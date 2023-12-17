@@ -47,6 +47,7 @@ Delve into the world of homomorphic encryption and its applications in recommend
 | Microsoft SDL Cryptographic Recommendations                                                     | Microsoft                                                        | 2022 | [Code](https://github.com/MicrosoftDocs/security/blob/main/security-docs/SDL/Cryptographic-Recommendations.md) |
 | DL-crypto-api-auto-recommendation                                                                                 | Open Source                                                        | 2022 |  [Code](https://github.com/Anya92929/DL-crypto-api-auto-recommendation)) |
 | HE Transformer for nGraph                                                                                           | Intel Al Research                                                 | 2022 | [Paper](https://arxiv.org/pdf/1908.04172.pdf), [Code](https://github.com/IntelAI/he-transformer) |
+| Factorization machines with libfm                                                                                           | University of Konstanz                                                 | 2022 | [Paper](https://dl.acm.org/doi/10.1145/2168752.2168771), [Code](https://github.com/tohtsky/myFM) |
 
 ## Blockchain Codebase: 
 Delve into the world of blockchain and its applications in recommender systems. Our repository includes codebases and examples illustrating how blockchain technology can be harnessed to bolster security, accountability, and transparency in recommendation services.
