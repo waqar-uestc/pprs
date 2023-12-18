@@ -56,9 +56,35 @@ Delve into the world of blockchain and its applications in recommender systems. 
 
 ## Differential Privacy Resources: 
 
-For those keen on safeguarding user data and ensuring responsible recommendations, our collection of differential privacy resources offers valuable insights. Discover libraries, algorithms, and research papers that delve into the intricacies of differential privacy in the context of recommender systems.
+For those keen on safeguarding user data and ensuring responsible recommendations, our collection of differential privacy resources offers valuable insights. Discover libraries, algorithms, and recent works  that delve into the intricacies of differential privacy in the context of recommender systems.
 
-#### (A table with differential privacy resources will appear here)
+| Title | Affiliations | Venue   \   Year | Material |
+|---|---|---|---|
+
+|	Diffprivlib v0.6	|	IBM	|	2023	|	[Paper](https://arxiv.org/abs/2307.03543), [Code](https://github.com/IBM/differential-privacy-library)	|
+|	Differential Privacy	|	Apache Beam & Apache Spark	|	2023	|	[Paper](https://research.google/pubs/deep-learning-with-differential-privacy/), [Code](https://github.com/google/differential-privacy)	|
+|	PyDP	|	OpenMined	|	2023	|	[Code](https://github.com/OpenMined/PyDP)	|
+|	PipelineDP	|	OpenMined	|	2023	|	[Code](https://github.com/OpenMined/PipelineDP)	|
+|	TensorFlow Privacy	|	Google LLC	|	2023	|	[Paper](https://arxiv.org/abs/1510.01799), [Code](https://github.com/tensorflow/privacy)	|
+|	Opacus	|	Meta Open Source	|	2023	|	[Paper](https://arxiv.org/abs/2109.12298), [Code](https://github.com/pytorch/opacus)	|
+|	OpenDP	|	Open Source	|	2023	|	[Code](https://github.com/opendp/opendp)	|
+|	An improved matrix factorization with local differential privacy based on piecewise mechanism for recommendation systems	|	 Chongqing University of Posts and Telecommunications	|	2023	|	[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024769)	|
+|	Towards Differential Privacy in Sequential Recommendation: A Noisy Graph Neural Network Approach	|	Shanghai University of Finance and Economics, China	|	2023	|	[Paper](https://arxiv.org/pdf/2309.11515v1.pdf)	|
+|	Enhanced Privacy Preservation for Recommender Systems	|	NTU, Singapore	|	2023	|	[Paper](https://dl.acm.org/doi/abs/10.1145/3604915.3608888)	|
+|	User Privacy in Recommender Systems	|	Know-Center GmbH, Graz, Austria	|	2023	|	[Paper](https://link.springer.com/chapter/10.1007/978-3-031-28241-6_52)	|
+|	Privacy-preserving graph convolution network for federated item recommendation	|	SZU	|	2023	|	[Paper](https://www.sciencedirect.com/science/article/abs/pii/S000437022300142X)	|
+|	Win-Win: A Privacy-Preserving Federated Framework for Dual-Target Cross-Domain Recommendation	|	CAS; UCAS; JD Technology; JD Intelligent Cities Research	|	2023	|	[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25531)	|
+|	Personalized Privacy Protection-Preserving Collaborative Filtering Algorithm for Recommendation Systems	|	Systems Engineering Institute, Academy of Military Sciences, PLA, Tianjin 300161, China	|	2023	|	[Paper](https://www.mdpi.com/2076-3417/13/7/4600)	|
+|	Combining Autoencoder with Adaptive Differential Privacy for Federated Collaborative Filtering	|	Huazhong University of Science and Technology, Wuhan, China	|	2023	|	[Paper](https://link.springer.com/chapter/10.1007/978-3-031-30637-2_44)	|
+|	Community-based social recommendation under local differential privacy protection	|	Taolin Guo, Information Sciences	|	2023	|	[Paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552300587X)	|
+|	Differentially Private Sparse Mapping for Privacy-Preserving Cross Domain Recommendation	|	Zhejiang University, Hangzhou	|	2023	|	[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611924)	|
+|	A matrix factorization recommendation model for tourism points of interest based on interest shift and differential privacy	|	Anhui Normal University, Wuhu	|	2023	|	[Paper](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs211542)	|
+|	An efficient privacy-preserving point-of-interest recommendation model based on local differential privacy	|	Zhejiang Gongshang University	|	2023	|	[Paper](https://link.springer.com/content/pdf/10.1007/s40747-022-00917-0.pdf)	|
+|	Differentially private recommender system with variational autoencoders	|	The University of Hong Kong	|	2022	|	[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122005111)	|
+|	Differential privacy in collaborative filtering recommender systems: a review	|	Know-Center Gmbh, Graz, Austria	|	2022	|	[Paper](https://www.frontiersin.org/articles/10.3389/fdata.2023.1249997/full)	|
+|	A differentially private matrix factorization based on vector perturbation for recommender system	|	University of Posts and Telecommunications, Chongqing	|	2022	|	[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001060)	|
+|	A privacy-preserving subgraph-level federated graph neural network via differential privacy	|	Beijing Jiaotong University, Beijing, China	|	2022	|	[Paper](https://link.springer.com/chapter/10.1007/978-3-031-10989-8_14)	|
+
 
 ## Responsibility Aspects (Fairness, Privacy, Security): 
 
