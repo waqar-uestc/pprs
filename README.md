@@ -60,8 +60,7 @@ For those keen on safeguarding user data and ensuring responsible recommendation
 
 | Title | Affiliations | Venue   \   Year | Material |
 |---|---|---|---|
-
-|	Diffprivlib v0.6	|	IBM	|	2023	|	[Paper](https://arxiv.org/abs/2307.03543), [Code](https://github.com/IBM/differential-privacy-library)	|
+|	Diffprivlib v0.6	  |	  IBM	  |	  2023	  |	  [Paper](https://arxiv.org/abs/2307.03543), [Code](https://github.com/IBM/differential-privacy-library)	  |
 |	Differential Privacy	|	Apache Beam & Apache Spark	|	2023	|	[Paper](https://research.google/pubs/deep-learning-with-differential-privacy/), [Code](https://github.com/google/differential-privacy)	|
 |	PyDP	|	OpenMined	|	2023	|	[Code](https://github.com/OpenMined/PyDP)	|
 |	PipelineDP	|	OpenMined	|	2023	|	[Code](https://github.com/OpenMined/PipelineDP)	|
