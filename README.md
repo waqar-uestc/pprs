@@ -1,9 +1,12 @@
-![image](https://github.com/waqar-uestc/pprs/assets/141116090/36179db4-e116-45c5-b091-233398dd4108)
-PPRS Repo
-
 # Privacy-Preserved and Responsible Recommenders: From Conventional Defense to Federated Learning and Blockchain
 
 In our mission to advance the field of privacy-preserving and responsible recommender systems (PPRS), we understand the importance of practical tools and resources that aid researchers and practitioners in their work. As part of our commitment to the community, we've curated an extensive collection of toolkits, codebases, and recent repositories spanning key technologies such as Federated Learning, Blockchain, and Differential Privacy. This collection serves as a valuable resource for those eager to explore, experiment, and contribute to the development of robust PPRS solutions.
+
+## Responsibility Aspects (Fairness, Privacy, Security): 
+
+Responsible recommender systems go beyond preserving user privacy. They also prioritize fairness and security. Our repository encompasses tools and resources to help you assess and enhance the fairness, privacy, and security of your recommender systems.
+
+Whether you're an academic researcher, a data scientist, or an industry professional, this toolkit repository is designed to empower your work in PPRS. Feel free to explore, contribute, and leverage these resources to drive innovation in privacy, responsibility, and trustworthiness within the realm of recommender systems.
 
 ## Federated Learning Toolkit: 
 We explored a range of open-source libraries and codebases designed to implement federated learning techniques. Whether you're interested in preserving user privacy, enhancing recommendation performance, or both, these resources provide a foundation to build upon.
@@ -83,12 +86,5 @@ For those keen on safeguarding user data and ensuring responsible recommendation
 |	Differential privacy in collaborative filtering recommender systems: a review	|	Know-Center Gmbh, Graz, Austria	|	2022	|	[Paper](https://www.frontiersin.org/articles/10.3389/fdata.2023.1249997/full)	|
 |	A differentially private matrix factorization based on vector perturbation for recommender system	|	University of Posts and Telecommunications, Chongqing	|	2022	|	[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001060)	|
 |	A privacy-preserving subgraph-level federated graph neural network via differential privacy	|	Beijing Jiaotong University, Beijing, China	|	2022	|	[Paper](https://link.springer.com/chapter/10.1007/978-3-031-10989-8_14)	|
-
-
-## Responsibility Aspects (Fairness, Privacy, Security): 
-
-Responsible recommender systems go beyond preserving user privacy. They also prioritize fairness and security. Our repository encompasses tools and resources to help you assess and enhance the fairness, privacy, and security of your recommender systems.
-
-Whether you're an academic researcher, a data scientist, or an industry professional, this toolkit repository is designed to empower your work in PPRS. Feel free to explore, contribute, and leverage these resources to drive innovation in privacy, responsibility, and trustworthiness within the realm of recommender systems.
 
 #### We are actively organizing this repository and will be releasing details soon. Stay tuned for updates!
