@@ -6,6 +6,23 @@ In our mission to advance the field of privacy-preserving and responsible recomm
 
 In line with our commitment to empowering researchers and practitioners in the domain of privacy-preserving and responsible recommender systems, our repository offers a curated selection of versatile toolkits and open-source repositories. These resources cater to various stages of recommender system development, facilitating the creation, experimentation, regeneration of results, and evaluation across diverse datasets. Specifically tailored to prioritize responsibility aspects, including fairness, privacy, security, attack resilience, and accountability within recommender systems, the table below showcases a range of toolkits meticulously designed to address these crucial dimensions.
 
+| Tile                                   | Affiliations                                                                            | Venue Year | Material                                                                                                                 |
+|----------------------------------------|-----------------------------------------------------------------------------------------|-------|--------------------------------------------------------------------------------------------------------------------------|
+|	Surprise	|	Columbia University, USA	|	2023	|	[Paper](https://doi.org/10.21105/joss.02174), [Code](https://surpriselib.com/)	|
+|	Case Recommender	|	University of São Paulo, Brazil	|	2023	|	[Paper](http://doi.acm.org/10.1145/3240323.3241611), [Code](https://github.com/caserec/CaseRecommender)	|
+|	Microsoft Recommender	|	Micrrosoft UK	|	2023	|	[Paper](https://dl.acm.org/doi/abs/10.1145/3366424.3382692), [Code](https://github.com/microsoft/recommenders)	|
+|	ELLIOT	|	SisInfLab Group	|	2023	|	[Paper](https://doi.org/10.1145/3404835.3463245), [Code](https://github.com/sisinflab/elliot)	|
+|	RecZilla	|	University of Maryland, USA	|	2023	|	[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1c446a652e50b1ea5618b66c07bfc0c5-Abstract-Conference.html), [Code](https://github.com/naszilla/reczilla)	|
+|	RecBole	|	Renmin University of China	|	2023	|	[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557680), [Code](https://github.com/RUCAIBox/RecBole)	|
+|	RGRecSys	|	University of Illinois at Chicago, USA	|	2023	|	[Paper](https://dl.acm.org/doi/abs/10.1145/3488560.3502192), [Code](https://github.com/salesforce/RGRecSys)	|
+|	DaisyRec 	|	Macquarie University, Australia	|	2023	|	[Paper](https://dl.acm.org/doi/10.1145/3383313.3412489), [Code](https://github.com/AmazingDD/daisyRec)	|
+|	LightFM	|	Maciej Kula	|	2023	|	[Paper](http://ceur-ws.org/Vol-1448/paper4.pdf), [Code](https://github.com/lyst/lightfm)	|
+|	TensorFlow Recommenders	|	Google TensorFlow 	|	2023	|	[Paper](https://www.tensorflow.org/recommenders), [Code](https://github.com/tensorflow/recommenders)	|
+|	Cornac	|	Singapore Management University, RIT France	|	2023	|	[Paper](https://dl.acm.org/doi/abs/10.1145/3460231.3473324), [Code](https://github.com/PreferredAI/cornac)	|
+|	ClayRS	|	University of Bari Aldo Moro, Italy	|	2023	|	[Paper](https://www.sciencedirect.com/science/article/pii/S0306437923001096), [Code](https://github.com/swapUniba/ClayRS)	|
+|	FuxiCTR	|	Huawei Noah Ark Lab, China	|	2023	|	[Paper](https://dl.acm.org/doi/10.1145/3477495.3531723), [Code](https://github.com/reczoo/FuxiCTR)	|
+|	ReChorus	|	Tsinghua University, China	|	2023	|	[Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401131), [Code](https://github.com/THUwangcy/ReChorus)	|
+|	RecList	|	Coveo Labs, USA	|	2023	|	[Paper](https://doi.org/10.1145/3487553.3524215), [Code](https://github.com/RecList/reclist)	|
 
 
 Whether you're an academic researcher, a data scientist, or an industry professional, this toolkit repository is designed to empower your work in PPRS. Feel free to explore, contribute, and leverage these resources to drive innovation in privacy, responsibility, and trustworthiness within the realm of recommender systems.
