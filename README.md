@@ -37,8 +37,7 @@ In line with our commitment to empowering researchers and practitioners in the d
 |	Debiasing Learning for Membership Inference Attacks Against Recommender Systems	|	Shandong University, China	|	KDD 2022	|	[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539392), [Code](https://github.com/WZH-NLP/DL-MIA-KDD-2022)	|
 |	Cross-domain Cross-architecture Black-box Attacks on Fine-tuned Models with Transferred Evolutionary Strategies	|	Hong Kong University of Science & Technology	|	CIKM 2022	|	[Paper](https://doi.org/10.1145/3511808.3557276), [Code](https://github.com/HKUST-KnowComp/TES)	|
 |	Poisoning Self-supervised Learning Based Sequential Recommendations	|	City University of Hong Kong	|	SIGIR 2023	|	[Paper](https://doi.org/10.1145/3539618.3591751), [Code](https://github.com/CongGroup/Poisoning-SSL-based-RS)	|
-|	"FedAttack: Effective and Covert Poisoning Attack on Federated
-Recommendation via Hard Sampling"	|	Tsinghua University, China	|	KDD 2022	|	[Paper](https://doi.org/10.1145/3534678.3539119), [Code](https://github.com/wuch15/FedAttack)	|
+|	FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling  |	Tsinghua University, China	|	KDD 2022	|	[Paper](https://doi.org/10.1145/3534678.3539119), [Code](https://github.com/wuch15/FedAttack)	|
 |	Poisoning Deep Learning Based Recommender Model in Federated Learning Scenarios	|	Zhejiang University, China 	|	IJCAI 2022	|	[Paper](https://doi.org/10.24963/ijcai.2022/306), [Code](https://github.com/rdz98/PoisonFedDLRS)	|
 |	Two-sided Calibration for Quality-aware Responsible Recommendation	|	Tsinghua University, China	|	RecSys 2023	|	[Paper](https://doi.org/10.1145/3604915.3608799), [Code](https://github.com/THUwangcy/ReChorus/tree/RecSys23)	|
 |	FedRecAttack: Model Poisoning Attack to Federated Recommendation	|	Zhejiang University, China 	|	ICDE 2022	|	[Paper](https://doi.org/10.1109/ICDE53745.2022.00243), [Code](https://github.com/rdz98/FedRecAttack)	|
@@ -52,6 +51,8 @@ Whether you're an academic researcher, a data scientist, or an industry professi
 
 ## Federated Learning Toolkit: 
 We explored a range of open-source libraries and codebases designed to implement federated learning techniques. Whether you're interested in preserving user privacy, enhancing recommendation performance, or both, these resources provide a foundation to build upon.
+
+#### FL Codebases Recent Implementations
 
 | Tile                                   | Affiliations                                                                            | Venue Year | Material                                                                                                                 |
 |----------------------------------------|-----------------------------------------------------------------------------------------|-------|--------------------------------------------------------------------------------------------------------------------------|
@@ -79,6 +80,7 @@ We explored a range of open-source libraries and codebases designed to implement
 ## Encryption Codebase: 
 Delve into the world of homomorphic encryption and its applications in recommender systems. Our repository includes codebases and examples illustrating how encryption technology can be harnessed to bolster security, accountability, and transparency in recommendation services.
 
+#### Encryption Frameworks
 | Title                                                                                                                            | Affiliations                                                  | Venue   \   Year | Material |
 |---|---|---|---|
 | Fully Homomorphic Encryption (FHE)                                                                                 | Google-Open source                                             | 2023 | [Paper](https://eprint.iacr.org/2023/1364.pdf), [Code](https://github.com/google/fully-homomorphic-encryption)|
@@ -93,11 +95,6 @@ Delve into the world of homomorphic encryption and its applications in recommend
 | DL-crypto-api-auto-recommendation                                                                                 | Open Source                                                        | 2022 |  [Code](https://github.com/Anya92929/DL-crypto-api-auto-recommendation)) |
 | HE Transformer for nGraph                                                                                           | Intel Al Research                                                 | 2022 | [Paper](https://arxiv.org/pdf/1908.04172.pdf), [Code](https://github.com/IntelAI/he-transformer) |
 | Factorization machines with libfm                                                                                           | University of Konstanz                                                 | 2022 | [Paper](https://dl.acm.org/doi/10.1145/2168752.2168771), [Code](https://github.com/tohtsky/myFM) |
-
-## Blockchain Codebase: 
-Delve into the world of blockchain and its applications in recommender systems. Our repository includes codebases and examples illustrating how blockchain technology can be harnessed to bolster security, accountability, and transparency in recommendation services.
-
-#### (A table with blockchain collection will appear here)
 
 ## Differential Privacy Resources: 
 
@@ -129,4 +126,9 @@ For those keen on safeguarding user data and ensuring responsible recommendation
 |	A differentially private matrix factorization based on vector perturbation for recommender system	|	University of Posts and Telecommunications, Chongqing	|	2022	|	[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001060)	|
 |	A privacy-preserving subgraph-level federated graph neural network via differential privacy	|	Beijing Jiaotong University, Beijing, China	|	2022	|	[Paper](https://link.springer.com/chapter/10.1007/978-3-031-10989-8_14)	|
 
-#### We are actively organizing this repository and will be releasing details soon. Stay tuned for updates!
+## Blockchain Codebase: 
+Delve into the world of blockchain and its applications in recommender systems. Our repository includes codebases and examples illustrating how blockchain technology can be harnessed to bolster security, accountability, and transparency in recommendation services.
+
+#### (A table with blockchain collection will appear here)
+
+### We are actively organizing this repository and will be releasing details soon. Stay tuned for updates!
