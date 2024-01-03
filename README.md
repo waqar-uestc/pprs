@@ -5,7 +5,7 @@ In our mission to advance the field of privacy-preserving and responsible recomm
 ## Responsibility Aspects (Fairness, Privacy, Security): 
 
 In line with our commitment to empowering researchers and practitioners in the domain of privacy-preserving and responsible recommender systems, our repository offers a curated selection of versatile toolkits and open-source repositories. These resources cater to various stages of recommender system development, facilitating the creation, experimentation, regeneration of results, and evaluation across diverse datasets. Specifically tailored to prioritize responsibility aspects, including fairness, privacy, security, attack resilience, and accountability within recommender systems, the table below showcases a range of toolkits meticulously designed to address these crucial dimensions.
-### Evaluation Frameworks 
+#### Evaluation Frameworks 
 | Tile                                   | Affiliations                                                                            | Venue Year | Material                                                                                                                 |
 |----------------------------------------|-----------------------------------------------------------------------------------------|-------|--------------------------------------------------------------------------------------------------------------------------|
 |	Surprise	|	Columbia University, USA	|	2023	|	[Paper](https://doi.org/10.21105/joss.02174), [Code](https://surpriselib.com/)	|
@@ -23,6 +23,29 @@ In line with our commitment to empowering researchers and practitioners in the d
 |	FuxiCTR	|	Huawei Noah Ark Lab, China	|	2023	|	[Paper](https://dl.acm.org/doi/10.1145/3477495.3531723), [Code](https://github.com/reczoo/FuxiCTR)	|
 |	ReChorus	|	Tsinghua University, China	|	2023	|	[Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401131), [Code](https://github.com/THUwangcy/ReChorus)	|
 |	RecList	|	Coveo Labs, USA	|	2023	|	[Paper](https://doi.org/10.1145/3487553.3524215), [Code](https://github.com/RecList/reclist)	|
+
+#### Practical Implementations
+| Tile                                   | Affiliations                                                                            | Venue Year | Material |
+|----------------------------------------|-----------------------------------------------------------------------------------------|-------|--------------------------------------------------------------------------------------------------------------------------|
+|	Calibration Matters: Tackling Maximization Bias in Large-Scale Advertising Recommendation Systems	|	Carnegie Mellon University	|	ICLR 2023	|	[Paper](https://arxiv.org/pdf/2205.09809.pdf), [Code](https://github.com/tofuwen/VAD)	|
+|	TDR-CL: Targeted Doubly Robust Collaborative Learning for Debiased Recommendations	|	Peking University	|	ICLR 2023	|	[Paper](https://openreview.net/forum?id=EIgLnNx_lC), [Code](https://openreview.net/pdf?id=EIgLnNx_lC)	|
+|	LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation	|	University of Hong Kong	|	ICLR 2023	|	[Paper](https://openreview.net/pdf?id=FKXVK9dyMM), [Code](https://github.com/HKUDS/LightGCL)	|
+|	RecAD: Towards A Unified Library for Recommender Attack and Defense	|	University of Science and Technology of China	|	RecSys 2023	|	[Paper](https://dl.acm.org/doi/abs/10.1145/3604915.3609490), [Code](https://github.com/gusye1234/recad)	|
+|	Single-User Injection for Invisible Shilling Attack against Recommender Systems.	|	Xiamen University, China	|	CIKM 2023	|	[Paper](https://doi.org/10.1145/3583780.3615062), [Code](https://github.com/KDEGroup/SUI-Attack)	|
+|	Countering Popularity Bias by Regularizing Score Differences	|	National University, Korea	|	RecSys 2023	|	[Paper](https://dl.acm.org/doi/abs/10.1145/3523227.3546757), [Code](https://github.com/stillpsy/popbias)	|
+|	Knowledge-enhanced Black-box Attacks for Recommendations	|	Nanjing University, China	|	KDD 2022	|	[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539359), [Code](https://cjfcsjt.github.io/)	|
+|	Debiasing Learning for Membership Inference Attacks Against Recommender Systems	|	Shandong University, China	|	KDD 2022	|	[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539392), [Code](https://github.com/WZH-NLP/DL-MIA-KDD-2022)	|
+|	Cross-domain Cross-architecture Black-box Attacks on Fine-tuned Models with Transferred Evolutionary Strategies	|	Hong Kong University of Science & Technology	|	CIKM 2022	|	[Paper](https://doi.org/10.1145/3511808.3557276), [Code](https://github.com/HKUST-KnowComp/TES)	|
+|	Poisoning Self-supervised Learning Based Sequential Recommendations	|	City University of Hong Kong	|	SIGIR 2023	|	[Paper](https://doi.org/10.1145/3539618.3591751), [Code](https://github.com/CongGroup/Poisoning-SSL-based-RS)	|
+|	"FedAttack: Effective and Covert Poisoning Attack on Federated
+Recommendation via Hard Sampling"	|	Tsinghua University, China	|	KDD 2022	|	[Paper](https://doi.org/10.1145/3534678.3539119), [Code](https://github.com/wuch15/FedAttack)	|
+|	Poisoning Deep Learning Based Recommender Model in Federated Learning Scenarios	|	Zhejiang University, China 	|	IJCAI 2022	|	[Paper](https://doi.org/10.24963/ijcai.2022/306), [Code](https://github.com/rdz98/PoisonFedDLRS)	|
+|	Two-sided Calibration for Quality-aware Responsible Recommendation	|	Tsinghua University, China	|	RecSys 2023	|	[Paper](https://doi.org/10.1145/3604915.3608799), [Code](https://github.com/THUwangcy/ReChorus/tree/RecSys23)	|
+|	FedRecAttack: Model Poisoning Attack to Federated Recommendation	|	Zhejiang University, China 	|	ICDE 2022	|	[Paper](https://doi.org/10.1109/ICDE53745.2022.00243), [Code](https://github.com/rdz98/FedRecAttack)	|
+|	Debiased Contrastive Learning for Sequential Recommendation	|	University of Hong Kong	|	WWW 2023	|	[Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583361), [Code](https://github.com/HKUDS/DCRec)	|
+|	Uncovering User Interest from Biased and Noised Watch Time in Video Recommendation	|	Noah Ark Lab, Huawei	|	RecSys 2023	|	[Paper](https://dl.acm.org/doi/abs/10.1145/3604915.3608797), [Code](https://github.com/hyz20/D2Co.git)	|
+|	Knowledge Graph Self-Supervised Rationalization for Recommendation	|	University of Hong Kong	|	KDD 2023	|	[Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599400), [Code](https://github.com/HKUDS/KGRec)	|
+|	Discriminative-Invariant Representation Learning for Unbiased Recommendation	|	University of Science and Technology of China	|	IJCAI 2023	|	[Paper](https://doi.org/10.24963/ijcai.2023/252), [Code](https://github.com/HungPaan/DIRL)|
 
 
 Whether you're an academic researcher, a data scientist, or an industry professional, this toolkit repository is designed to empower your work in PPRS. Feel free to explore, contribute, and leverage these resources to drive innovation in privacy, responsibility, and trustworthiness within the realm of recommender systems.
