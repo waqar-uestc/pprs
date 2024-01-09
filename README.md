@@ -131,8 +131,7 @@ Delve into the world of blockchain and its applications in recommender systems. 
 
 #### (A table with blockchain collection will appear here)
 
-| Title | Affiliations | Venue   \   Year | Material |
-|---|---|---|---|
+
 
 ***
 
