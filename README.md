@@ -131,4 +131,7 @@ Delve into the world of blockchain and its applications in recommender systems. 
 
 #### (A table with blockchain collection will appear here)
 
-### We are actively organizing this repository and will be releasing details soon. Stay tuned for updates!
+| Title | Affiliations | Venue   \   Year | Material |
+|---|---|---|---|
+
+### We are actively updating this repository. Stay tuned for updates!
