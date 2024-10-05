@@ -76,6 +76,14 @@ We explored a range of open-source libraries and codebases designed to implement
 | Federated News Recommendation with Fine-grained Interpolation and Dynamic Clustering                     | University of Science and Technology of China, State Key Laboratory of Cognitive Intelligence Hefei China | CIKM 2023  | [Paper](https://dl.acm.org/doi/10.1145/3583780.3614881), [Code](https://github.com/yusanshi/FINDING)        |
 | Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense | University of Science and Technology of China, State Key Laboratory of Cognitive Intelligence Hefei China | AAAI 2023  | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25611), [Code](https://github.com/yflyl613/FedRec) |
 | Fine-Grained Preference-Aware Personalized Federated POI Recommendation with Data Sparsity               | Shandong University, Qingdao, China                                                                       | SIGIR 2023 | [Paper](https://dl.acm.org/doi/10.1145/3539618.3591688), [Code](https://github.com/Leavesy/PrefFedPOI)      |
+| Wyze Rule: Federated Rule Dataset for Rule Recommendation Benchmarking               | Wyze Labs, Washington, USA     
+| NeurIPS 2023 | [Paper](https://openreview.net/pdf?id=qynH28Y4xE), [Code](https://github.com/yh-yao/FedRule)      |
+| FedSlate: A Federated Deep Reinforcement Learning Recommender System                 | Westlake University, Hangzhou, China     
+| NeurIPS 2024 | [Paper](https://arxiv.org/pdf/2409.14872v1), [Code](https://github.com/TianYaDY/FedSlate)      |
+| FedHCDR: Federated Cross-Domain Recommendation with Hypergraph Signal Decoupling     |  HIT, Shenzhen, China     
+| ECML/PKDD 2024 | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-70341-6_21), [Code](https://github.com/orion-orion/fedhcdr)      |
+| Federated Recommendation via Hybrid Retrieval Augmented Generation         | UoI at Urbana-Champaign, USA    
+| arXive 2024 | [Paper](https://arxiv.org/pdf/2403.04256v1), [Code](https://github.com/huiminzeng/gpt-fedrec)      |
 
 ## Encryption Codebase: 
 Delve into the world of homomorphic encryption and its applications in recommender systems. Our repository includes codebases and examples illustrating how encryption technology can be harnessed to bolster security, accountability, and transparency in recommendation services.
