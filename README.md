@@ -27,6 +27,7 @@ In line with our commitment to empowering researchers and practitioners in the d
 #### Practical Implementations
 | Tile                                   | Affiliations                                                                            | Venue Year | Material |
 |----------------------------------------|-----------------------------------------------------------------------------------------|-------|--------------------------------------------------------------------------------------------------------------------------|
+|	Challenges of responsible AI in practice: scoping review and recommended actions	|	Imperial College London	|	 AI & SOCIETY 2025	|	[Paper](https://link.springer.com/article/10.1007/s00146-024-01880-9), [Code](https://link.springer.com/article/10.1007/s00146-024-01880-9)	|
 |	Calibration Matters: Tackling Maximization Bias in Large-Scale Advertising Recommendation Systems	|	Carnegie Mellon University	|	ICLR 2023	|	[Paper](https://arxiv.org/pdf/2205.09809.pdf), [Code](https://github.com/tofuwen/VAD)	|
 |	TDR-CL: Targeted Doubly Robust Collaborative Learning for Debiased Recommendations	|	Peking University	|	ICLR 2023	|	[Paper](https://openreview.net/forum?id=EIgLnNx_lC), [Code](https://openreview.net/pdf?id=EIgLnNx_lC)	|
 |	LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation	|	University of Hong Kong	|	ICLR 2023	|	[Paper](https://openreview.net/pdf?id=FKXVK9dyMM), [Code](https://github.com/HKUDS/LightGCL)	|
