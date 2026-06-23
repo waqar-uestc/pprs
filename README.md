@@ -23,6 +23,7 @@ In line with our commitment to empowering researchers and practitioners in the d
 |	FuxiCTR	|	Huawei Noah Ark Lab, China	|	2023	|	[Paper](https://dl.acm.org/doi/10.1145/3477495.3531723), [Code](https://github.com/reczoo/FuxiCTR)	|
 |	ReChorus	|	Tsinghua University, China	|	2023	|	[Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401131), [Code](https://github.com/THUwangcy/ReChorus)	|
 |	RecList	|	Coveo Labs, USA	|	2023	|	[Paper](https://doi.org/10.1145/3487553.3524215), [Code](https://github.com/RecList/reclist)	|
+|RecNextEval | Nanyang Technological University, China |  2026 | [Paper](https://arxiv.org/abs/2604.13665?utm_source.com), [Code](https://github.com/hiiamtzekean/recnexteval?utm_source.com)|
 
 #### Practical Implementations
 | Tile                                   | Affiliations                                                                            | Venue Year | Material |
